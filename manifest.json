@@ -1,0 +1,17 @@
+{
+  "short_name": "Portal K3", 
+  "name": "Portal K3 Beef", 
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/u/0/d/1-bOhe9U6H6-3TLTtiqph7Zgt_44z4M6J", 
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#ffffff", 
+  "theme_color": "#34a853", 
+  "display": "standalone",
+  "orientation": "portrait"
+}
